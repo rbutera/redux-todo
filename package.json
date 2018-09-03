@@ -1,0 +1,9 @@
+{
+  "name": "redux-todo",
+  "version": "0.0.1",
+  "description": "A Todo List Application built using React + Redux ",
+  "main": "index.js",
+  "repository": "https://github.com/Raigasm/redux-todo",
+  "author": "rai@rbutera.com",
+  "license": "MIT"
+}
